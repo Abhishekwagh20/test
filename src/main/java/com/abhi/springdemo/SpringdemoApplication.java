@@ -11,6 +11,7 @@ public class SpringdemoApplication {
 
 		System.out.println("Hello");
 		System.out.println("test");
+		System.out.println("test2");
 	}
 
 
